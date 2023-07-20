@@ -90,3 +90,10 @@ nav li a{
         flex-direction: column;
     }   
 }
+
+main{
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+
